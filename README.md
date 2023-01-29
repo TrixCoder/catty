@@ -26,7 +26,5 @@ cd catty
 <p>Once the Firebase setup is complete, you can build and run the app on your device or emulator.</p>
 <h2>Contribution</h2>
 <p>We welcome contributions to Catty. If you find a bug or have an idea for a new feature, please open an issue or submit a pull request.</p>
-<h2>License</h2>
-<p>Catty is licensed under the MIT License. See <a href="LICENSE">LICENSE</a> for more information.</p>
 <h2>Contact</h2>
 <p>If you have any questions or feedback, please feel free to contact me TrixCoder on Github or via <code>utk.bkkg@gmail.com</code>.</p>
