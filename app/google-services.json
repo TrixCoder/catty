@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910058233831",
+    "project_id": "catty-e59df",
+    "storage_bucket": "catty-e59df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910058233831:android:e2b1fb6a51d44b894de742",
+        "android_client_info": {
+          "package_name": "com.dark.catty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910058233831-veptassjvbdrms02km1ndpqcsrn8drjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqDYakLE1u2aR9t7YwExdvUFPj59Mgq98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910058233831-veptassjvbdrms02km1ndpqcsrn8drjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
